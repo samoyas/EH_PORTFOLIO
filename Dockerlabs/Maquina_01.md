@@ -1,6 +1,6 @@
 # Máquina: [Nombre de la máquina de DockerLabs]
 
-## Fecha
+### Fecha
 [Fecha en que la resolviste]
 
 ## Reconocimiento
